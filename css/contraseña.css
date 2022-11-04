@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+}
+body{
+   background-color: #C2E0FF;
+}
+@font-face {
+    font-family: Creamy;
+    src: url(/fonts/Creamy.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: coffe;
+    src: url(/fonts/Cafe\ Francoise_D.ttf);
+    font-weight: bold;
+}
+.Recuperar{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: coffe;
+    font-size: 40px;
+    color: #FFB673;
+    display:block;
+    display:inline-block ;
+    width: 500px;
+}
+.contenedor1{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 0px;
+      
+}
+.seguridad{
+    position: absolute;
+    top: 100px;
+    cursor: pointer;
+    margin-left: 50px;
+    height: 350px;
+}   
+
+.for{
+    position: absolute;
+    top: 230px;
+    right: 110px;
+    width: 350px;
+    height: 25px;
+    background-color: #FFB673;
+    border-radius: 10px;
+    border-color: #FFB673;
+}
+.cuadrorecuperar p{
+    margin-top: 20px;
+}
+.a{
+    font-family: coffe;
+    font-size: 25px;
+    position: absolute;
+    top: 500px;
+    right: 720px;
+    width: 200px;
+    text-decoration: none;
+    color: #FFB673;
+}
+.a img{
+    width: 50px;
+    position: absolute;
+    bottom: 1px;
+    right: 86%;
+}
+.continuar{
+    position: absolute;
+    margin-left: 150px;
+    top: 70%;
+}

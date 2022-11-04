@@ -1,0 +1,128 @@
+[
+    {
+        "num": "1",
+        "nombre": "DEIVYD GOMEZ MUÑOZ", 
+        "edad": 16,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "2",
+        "nombre": "JUAN ESTEBAN CONDE GARRIDO", 
+        "edad": 17,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "3",
+        "nombre": "MARLON DANIEL BEDOYA SUAREZ", 
+        "edad": 19,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "4",
+        "nombre": "KEYNER ABEL BOLAÑO LOPEZ", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "5",
+        "nombre": "YERALDIN CASTAÑO MONSALVE", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "6",
+        "nombre": "YURLEY STEFANNY GUERRA BLANDÓN", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "7",
+        "nombre": "CARLOS JOSÉ DELGADO MARTÍNEZ", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "8",
+        "nombre": "YULEIDY YULIETH LÓPEZ OSORIO", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "9",
+        "nombre": "ESTEFANÍA MUÑOZ LOAIZA", 
+        "edad": 17,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "10",
+        "nombre": "STEFANY HINESTROSA ZABALETA", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "11",
+        "nombre": "YESID ANDRES MONSALVE CIRO", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "12",
+        "nombre": "ALEXANDER FORONDA VELÁSQUEZ", 
+        "edad": 20,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "13",
+        "nombre": "JHOJAN ANDRÉS ESPINOSA TABORDA", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "14",
+        "nombre": "JESÚS MANUEL GIRALDO PEREIRA", 
+        "edad": 16,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "15",
+        "nombre": "JUAN DAVID SANCHEZ HERNÁNDEZ", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "16",
+        "nombre": "HECTOR DUVAN MEDINA ALZATE", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "17",
+        "nombre": "MARIANA ISABEL JARAMILLO GÓMEZ", 
+        "edad": 16,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "18",
+        "nombre": "JOSE MANUEL PEREIRA TURIZO", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "19",
+        "nombre": "FRANCHESKA XIMENA SOTO RODRÍGUEZ", 
+        "edad": 17,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "20",
+        "nombre": "JUAN FERNANDO VERGARA GONZÁLEZ", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    },
+    {
+        "num": "21",
+        "nombre": "HAROLD GOMEZ ALVAREZ", 
+        "edad": 0,
+        "img": "/img/fondos-de-colores-3.jpg"
+    }
+]

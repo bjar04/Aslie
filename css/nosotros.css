@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+}
+body{
+   background-color: #C2E0FF;
+   margin-top: 200px;
+   position:static;
+}
+@font-face {
+    font-family: Creamy;
+    src: url(/fonts/Creamy.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: coffe;
+    src: url(/fonts/Cafe\ Francoise_D.ttf);
+    font-weight: bold;
+}
+.menu{
+    background: linear-gradient(to right,#2a5153, #38b3b3);
+    width: 1345px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    top: 0;
+    font-family: coffe;
+    font-size: 25px;
+    position: fixed;
+    z-index: 1;
+}
+.menu a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    margin-right: 100px;
+    line-height: 90px;
+}
+.menu a:hover{
+    transform: scale(0.8);
+    transition: 0.5s;
+    opacity: 0.7;
+}
+.logo{
+
+    width: 210px;
+    margin-left: 1px;
+    float: left;
+    margin-top: 10px;
+}
+.card{
+    background-color: #C2E0FF;
+    border-radius: 8px;
+    box-shadow: 0 12px 16px black;
+    width: 250px;
+    margin-left: 300px;
+    display: inline-block;
+    align-items: center;
+    font-family: coffe;
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+}
+.card a{
+    margin-left: 70px;
+    text-decoration: none;
+}
+.card:hover{
+    background-color: aquamarine;
+}
+
+.video{
+    background-color: darkslategray;
+    margin-top: 250px;
+    border-radius: 8px;
+    box-shadow: 0 12px 16px black;
+    margin-left: 220px;
+}
+/*:::::Pie de Pagina*/
+.pie-pagina{
+    width: 100%;
+    background-color: #2a5153;
+    padding-top: 20px;
+    margin-top: 200px;
+}
+.pie-pagina .grupo-1{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:50px;
+    padding: 45px 0px;
+}
+.pie-pagina .grupo-1 .box figure{
+    width: 100%;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pie-pagina .grupo-1 .box figure img{
+    width: 250px;
+}
+.pie-pagina .grupo-1 .box h2{
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+.pie-pagina .grupo-1 .box p{
+    color: #efefef;
+    margin-bottom: 10px;
+}
+.pie-pagina .grupo-1 .red-social a{
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    margin-right: 10px;
+    background-color: #38b3b3;
+    text-align: center;
+    transition: all 300ms ease;
+}
+.pie-pagina .grupo-1 .red-social a:hover{
+    transform: scale(0.9);
+}
+.pie-pagina .grupo-2{
+    background-color: #38b3b3;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff;
+}
+.pie-pagina .grupo-2 small{
+    font-size: 15px;
+}
+@media screen and (max-width:800px){
+    .pie-pagina .grupo-1{
+        width: 90%;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap:30px;
+        padding: 35px 0px;
+    }
+}
+
+   
